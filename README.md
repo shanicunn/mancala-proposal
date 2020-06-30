@@ -9,7 +9,7 @@
 * Player chooses a hole, picks up marbles, and dispenses marbles in other holes going towards their well
 * If their last marble goes into the well they can choose a new hole to begin the process again
 * If they end on an empty hole it is the opposing player's turn
-*Repeat
+* Repeat
 
 ### Technical Challenges
 * Get marbles into holes (or use counter)
