@@ -15,19 +15,12 @@ Repeat
 Get marbles into holes (or use counter)
 For number in holes, disperse marbles (a nested loop?)
 Add marbles to new holes and well
-While (player_1.holes.marbles > 0 || player_2.holes.marbles > 0) {
-    play   
-}
-    if (player_1.holes.marbles <= 0) {
-        Player 1 Wins
-    } else {
-        Player 2 Wins
-    }
+Count marbles in each hole
 
 
 ### Wireframe
 Image description
-![alt text]()
+![wireframe](https://github.com/shanicunn/mancala-proposal/blob/master/wireframe.png)
 
 
 
