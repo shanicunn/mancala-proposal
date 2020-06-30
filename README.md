@@ -16,6 +16,8 @@ Get marbles into holes (or use counter)
 For number in holes, disperse marbles (a nested loop?)
 Add marbles to new holes and well
 Count marbles in each hole
+Log current marbles in each hole
+End turn when an empty hole is reached 
 
 
 ### Wireframe
@@ -28,4 +30,15 @@ Image description
 Animations onclick of holes
 
 ### Timeline 
+6/30 - CSS template & HTML
+7/1 -   Game playing functions (click "play game" to begin loops)
+        loopTurn1:  remove all marbles from first hole,
+                    add marbles to every hole in passing
+7/2 -   loopTurn2:  repeat loopTurn1 til there are no new marbles,
+                    count marbles in each hole
+7/3 -   Console.log number of marbles while looping for users
+7/5 -   Add clicks to all holes
+7/6 -   
+
+
 # mancala-proposal
